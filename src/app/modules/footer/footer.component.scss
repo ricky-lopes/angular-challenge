@@ -1,0 +1,40 @@
+footer {
+    background: #FACF9D;
+    padding: 60px;
+}
+
+p {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 40px;
+    color: #444444;
+}
+
+.gp-8 {
+    gap: 8px;
+}
+
+.icon {
+    width: 32px;
+    height: 32px;
+    background-size:cover;
+    background-position: center;
+}
+
+.wpp_icon {
+    background-image: url(../../../assets/images/wpp_icon.png);
+}
+
+.twitch_icon {
+    background-image: url(../../../assets/images/twi_icon.png);
+}
+
+.insta_icon {
+    background-image: url(../../../assets/images/inst_icon.png);
+}
+
+.ttw_icon {
+    background-image: url(../../../assets/images/ttw_icon.png);
+}
